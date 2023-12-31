@@ -1,0 +1,25 @@
+.search {
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    z-index: 3;
+    height: 44px;
+    width: 582px;
+    margin-top: -77px;
+}
+
+
+
+
+.gb_C .gb_B {
+    display: inline-block;
+    line-height: 24px;
+    vertical-align: middle
+}
+.box {
+    width: 300px;
+    height: 300px;
+    padding: 100px;
+    margin: 100px;
+    
